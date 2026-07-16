@@ -1,5 +1,8 @@
 # SVGIconImageList [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
+> **Created by Antono**
+
+
 ## Three engines to render SVG (GDI+, Direct2D or Cairo) and four components to simplify use of SVG images (resize, fixedcolor, grayscale...)
 
 ### Actual official version 2.2.4 (VCL+FMX)
